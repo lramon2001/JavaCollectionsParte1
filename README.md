@@ -7,7 +7,14 @@
 > :books: **Estudo de um tema recorrente para a linguagem Java : Collections - A API de estrutura de dados do java.**
 
 ## Menu / Ementa
+### ArrayList
+-Estudo da interface collection
+-Estudo da interface List
+- Estudo dos métodos da classe ArrayList.
+## ArrayList
+```
 
+```
 ## History / História
 - See [Commit changes](https://github.com/lramon2001/JavaCollectionsParte1/commits/main) for details.
 
