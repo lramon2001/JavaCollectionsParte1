@@ -9,9 +9,9 @@
 ## Menu / Ementa
 
 ## History / História
-- See [Commit changes](https://github.com/lramon2001/Algoritmos/pulse) for details.
+- See [Commit changes](https://github.com/lramon2001/JavaCollectionsParte1/commits/main) for details.
 
-> **Consulte [Mudanças de commit](https://github.com/lramon2001/JavaCollectionsParte1/commits) para obter detalhes.**
+> **Consulte [Mudanças de commit](https://github.com/lramon2001/JavaCollectionsParte1/commits/main) para obter detalhes.**
 
 ## License / Licença
 
