@@ -11,7 +11,7 @@
 ## History / História
 - See [Commit changes](https://github.com/lramon2001/Algoritmos/pulse) for details.
 
-> **Consulte [Mudanças de commit](https://github.com/lramon2001/Algoritmos/pulse) para obter detalhes.**
+> **Consulte [Mudanças de commit](https://github.com/lramon2001/JavaCollectionsParte1/commits) para obter detalhes.**
 
 ## License / Licença
 
