@@ -1,6 +1,6 @@
 # Java Collections 1 Course / Curso de Java Collections 1
 [![Série](https://img.shields.io/badge/lramon2001-Collections-orange)](https://github.com/lramon2001/)
-[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/lramon2001/EstruturaDeDadosEalgoritmos/blob/main/LICENSE)
+[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/lramon2001/JavaCollectionsParte1/blob/main/LICENSE)
 ![language](https://img.shields.io/badge/java-only-yellow)
 
 :books: Study of a recurring theme for the Java language: Collections - The java data structure API. 
@@ -15,4 +15,4 @@
 
 ## License / Licença
 
-[MIT License](https://github.com/lramon2001/Algoritmos/blob/main/LICENSE) © [Lucas Ramon](https://github.com/lramon2001)
+[MIT License](https://github.com/lramon2001/JavaCollectionsParte1/blob/main/LICENSE) © [Lucas Ramon](https://github.com/lramon2001)
