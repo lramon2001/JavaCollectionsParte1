@@ -1,6 +1,9 @@
 package modelos;
 
-public class Pessoa {
+import java.util.Objects;
+import java.lang.*;
+
+public class Pessoa implements Comparable<Pessoa> {
     private int id;
     private String nome;
 
@@ -34,5 +37,33 @@ public class Pessoa {
                 "id=" + id +
                 ", nome='" + nome + '\'' +
                 '}';
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Pessoa)) return false;
+        Pessoa pessoa = (Pessoa) o;
+        return getId() == pessoa.getId() && Objects.equals(getNome(), pessoa.getNome());
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(getId(), getNome());
+    }
+
+    @Override
+    public int compareTo(Pessoa o) {
+        //0 : Os objetos são considerados iguais;
+        //
+        if(this.getId()==o.getId()){
+            return 0;
+        }
+
+        if(this.getId()<o.getId()){
+            return -1;
+        }
+
+        return 1;
     }
 }

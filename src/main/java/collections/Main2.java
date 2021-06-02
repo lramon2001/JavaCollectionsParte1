@@ -3,17 +3,17 @@ package collections;
 import modelos.Pessoa;
 
 import javax.swing.*;
-import java.util.Iterator;
-import java.util.LinkedList;
-import java.util.List;
+import java.util.*;
 
 public class Main2 {
     public static void main(String[] args){
+
         List<Pessoa> pessoas = new LinkedList<Pessoa>();
         pessoas.add(new Pessoa(1,"A1"));
         pessoas.add(new Pessoa(2,"A2"));
         pessoas.add(new Pessoa(3,"A3"));
-        JOptionPane.showMessageDialog(null,"Com Interator");
+        pessoas.remove(new Pessoa(1,"A1"));
+       /* JOptionPane.showMessageDialog(null,"Com Interator");
         Iterator<Pessoa> iteratorPessoa = pessoas.iterator();
         while(iteratorPessoa.hasNext()){
             Pessoa p = iteratorPessoa.next();
@@ -22,6 +22,8 @@ public class Main2 {
             }
             JOptionPane.showMessageDialog(null,p.toString());
         }
+
+    */
         JOptionPane.showMessageDialog(null,pessoas);
     }
 }
