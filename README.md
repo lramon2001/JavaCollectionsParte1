@@ -8,11 +8,10 @@
 
 ## Menu / Ementa
 
-### A Interface Collection, List e a implementação ArrayList
-
-- Estudo da interface Collection
-- Estudo da interface List
-- Estudo dos métodos da classe ArrayList.
+### The Collection, List Interface and the ArrayList implementation / A Interface Collection, List e a implementação ArrayList
+- Study of the Collection interface /  Estudo da interface Collection
+- Estudo da interface List / Study of the List interface
+- Study of ArrayList class methods / Estudo dos métodos da classe ArrayList.
 
 ### Iterators
 
