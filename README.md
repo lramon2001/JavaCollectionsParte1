@@ -23,12 +23,12 @@
 - The relationship of collections with the equals and hashCode methods / A relação das coleções com os métodos equals e hashCode;
 - Study of the AbstractSequentialList class / Estudo da classe AbstractSequencialList.
 
-### Organizando elementos dentro de coleções
+### Organizing elements within collections / Organizando elementos dentro de coleções
 
-- Estudo da interface Comparable;
-- Estudo da interface Comparator;
-- O método sort() e as expressões lambda;
-- A relação entre o método sort e a interface Comparator.
+- Estudo da interface Comparable / Comparable interface study;
+- Study of the Comparator interface / Estudo da interface Comparator;
+- The sort method and lambda expressions / O método sort e as expressões lambda;
+- The relationship between the sort method and the Comparator interface / A relação entre o método sort e a interface Comparator.
 
 ### Sets
 - Estudo do HashSet
