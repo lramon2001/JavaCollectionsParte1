@@ -8,13 +8,22 @@
 
 ## Menu / Ementa
 
-### ArrayList
+### A Interface Collection, List e a implementação ArrayList
 
-- Estudo da interface collection
-
+- Estudo da interface Collection
 - Estudo da interface List
-
 - Estudo dos métodos da classe ArrayList.
+
+### Iterators
+
+- Primeiros contatos com os iterators;
+- A relação entre os iterators e o laço foreach;
+- Iterators e a exceção ConcurrentModificationException;
+- Analisando o controle de modificação concorrente dentro dos iterators;
+- Iterators especializados;
+- Removenfo elementos com o método removeIf;
+- A relação das coleções com os métodos equals e hashCode
+- Estudo da classe AbstractSequencialList.
 
 
 
