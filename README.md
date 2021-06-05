@@ -32,6 +32,11 @@
 - O método sort() e as expressões lambda;
 - A relação entre o método sort e a interface Comparator.
 
+### Sets
+- Estudo do HashSet
+- Estudo do LinkedHashSet
+- Estudo do TreeSet
+
 ## History / História
 - See [Commit changes](https://github.com/lramon2001/JavaCollectionsParte1/commits/main) for details.
 
