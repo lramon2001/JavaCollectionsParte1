@@ -37,6 +37,10 @@
 - Estudo do LinkedHashSet
 - Estudo do TreeSet
 
+### Queues
+- Estudo do PriorityQueue
+- Método peek e poll;
+
 ## History / História
 - See [Commit changes](https://github.com/lramon2001/JavaCollectionsParte1/commits/main) for details.
 
