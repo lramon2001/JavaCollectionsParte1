@@ -25,7 +25,12 @@
 - A relação das coleções com os métodos equals e hashCode
 - Estudo da classe AbstractSequencialList.
 
+### Organizando elementos dentro de coleções
 
+- Estudo da interface Comparable;
+- Estudo da interface Comparator;
+- O método sort() e as expressões lambda;
+- A relação entre o método sort e a interface Comparator.
 
 ## History / História
 - See [Commit changes](https://github.com/lramon2001/JavaCollectionsParte1/commits/main) for details.
