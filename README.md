@@ -31,9 +31,9 @@
 - The relationship between the sort method and the Comparator interface / A relação entre o método sort e a interface Comparator.
 
 ### Sets
-- Estudo do HashSet
-- Estudo do LinkedHashSet
-- Estudo do TreeSet
+- HashSet Study / Estudo do HashSet
+- Study of LinkedHashSet / Estudo do LinkedHashSet
+- Study of the TreeSet / Estudo do TreeSet
 
 ### Queues
 - Estudo do PriorityQueue
