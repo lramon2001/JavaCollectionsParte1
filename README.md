@@ -40,6 +40,7 @@
 - Peek and poll method / Método peek e poll;
 
 ## UML representation of the hierarchy of collection implementations in Java / Representação em UML da hierarquia das implementações de coleções no Java
+![imagem](https://github.com/lramon2001/JavaCollectionsParte1/blob/main/UMLColllectionsJavaParte1.png)
 ## History / História
 - See [Commit changes](https://github.com/lramon2001/JavaCollectionsParte1/commits/main) for details.
 
