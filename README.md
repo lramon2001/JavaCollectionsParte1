@@ -10,19 +10,18 @@
 
 ### The Collection, List Interface and the ArrayList implementation / A Interface Collection, List e a implementação ArrayList
 - Study of the Collection interface /  Estudo da interface Collection
-- Estudo da interface List / Study of the List interface
+- Study of the List interface / Estudo da interface List
 - Study of ArrayList class methods / Estudo dos métodos da classe ArrayList.
 
 ### Iterators
 
-- Primeiros contatos com os iterators;
-- A relação entre os iterators e o laço foreach;
-- Iterators e a exceção ConcurrentModificationException;
-- Analisando o controle de modificação concorrente dentro dos iterators;
-- Iterators especializados;
-- Removenfo elementos com o método removeIf;
-- A relação das coleções com os métodos equals e hashCode
-- Estudo da classe AbstractSequencialList.
+- The relationship between iterators and the foreach loop / A relação entre os iterators e o laço foreach;
+- Iterators and the ConcurrentModificationException exception / Iterators e a exceção ConcurrentModificationException;
+- Analyzing concurrent change control within iterators / Analisando o controle de modificação concorrente dentro dos iterators;
+- Specialized iterators / Iterators especializados;
+- Removing elements with the removeIf method / Removendo elementos com o método removeIf;
+- The relationship of collections with the equals and hashCode methods / A relação das coleções com os métodos equals e hashCode;
+- Study of the AbstractSequentialList class / Estudo da classe AbstractSequencialList.
 
 ### Organizando elementos dentro de coleções
 
