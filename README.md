@@ -36,8 +36,8 @@
 - Study of the TreeSet / Estudo do TreeSet
 
 ### Queues
-- Estudo do PriorityQueue
-- Método peek e poll;
+- PriorityQueue Study / Estudo do PriorityQueue
+- Peek and poll method / Método peek e poll;
 
 ## History / História
 - See [Commit changes](https://github.com/lramon2001/JavaCollectionsParte1/commits/main) for details.
